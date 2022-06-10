@@ -1,0 +1,78 @@
+.main-title{
+    color: #fff;
+    text-align: center;
+    padding: 2rem 0 2rem 0;
+    font-family: Poppins;
+    font-weight: 400;
+}
+.menu-box{
+    width: 100%;
+    max-width: 700px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    height: auto;
+}
+
+.places-box{
+    padding: 2rem;
+}
+
+.places-title{
+    color: #F3AA00;
+    font-family: Poppins;
+    font-weight: 800;
+    font-size: 36px;
+}
+
+.places-text{
+    color: #FFF;
+    font-family: Poppins;
+    font-weight: 200;
+    padding-bottom: 1rem;
+}
+
+.home-card{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    color: #fff;
+    background-color: #333333;
+    border-radius: 10px;
+    padding: 1rem;
+    width: 300px;
+}
+
+.home-card h1{
+    font-size: 20px;
+    font-weight: 500;
+}
+.home-card p{
+    font-size: 16px;
+    font-weight: 200;
+}
+
+
+.line-infos{
+    display: flex;
+    align-items: center;
+    margin: 15px 0 0 0;
+}
+
+.line-infos button{
+    height: auto;
+    background: none;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+}
+
+.line-infos svg{
+    margin-left: 10px;
+}
+
+.cardContainer {
+    display: flex;
+    align-items: center;
+}

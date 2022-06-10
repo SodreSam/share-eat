@@ -1,0 +1,16 @@
+POST http://localhost:4002/menu
+content-type: application/json
+
+{
+    "name": "Xis Madera",
+    "price": 12,
+    "description": "Tri bom"
+}
+
+###
+
+GET http://localhost:4002/menu
+
+###
+
+GET http://localhost:4002/menu/1a3534a1-7dc0-4714-b1bb-ba0741694916
