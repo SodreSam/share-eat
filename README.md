@@ -70,9 +70,9 @@ $ npm install
 $ yarn dev
 	
 # É interessante criar um novo token de acesso e inserir dentro do documento .env na pasta backend, como neste caso foi utilizado MongoDB, seria este o processo.
-</div>
-```
 
+```
+</div>
 
 <div id ="tecnologias">
 
